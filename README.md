@@ -1,7 +1,15 @@
-# Soy Rafael Solis
-## Un poco sobre mí
-Actualmente soy estudiante de Ingeniería en Ciencias de la Computación y Sistemas de la Información en la Universidad Mariano Galvez de Guatemala.
-Tengo tres años de experiencia trabajando en el sector privado con proyectos web participando desde la planificación y las bases del proyecto hasta el desarrollo y entrega final del mismo. 
+### Hola👋 
+
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+Soy un estudiante de Ingeniería en Sistemas, apasionado por encontrar la mejor solución a problemas e implementandolas utilizando software.
+
+- 🔭 Actualmente estoy estudiando en la Universdida Mariano Gálvez de Guatemala.
+- 📚 Estoy aprendiendo desarrollo con ASP .NET y ABAP.
+- 📫 Cómo encontrarme: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-rafael-solis-franco-60a857174) [Outlook](mailto:jrsolis1997@)
+
+
+
 
 ##  GitHub Analytics
 <p align="center">
