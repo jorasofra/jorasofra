@@ -6,9 +6,9 @@ Mi nombre es Rafael Solis y soy un estudiante de Ingeniería en Sistemas, apasio
 En búsca de encontrar la mejor versión de mí.
 
 - 🔭 Actualmente estoy estudiando en la Universdida Mariano Gálvez de Guatemala.
-- 📚 Estoy aprendiendo desarrollo con ASP .NET y ABAP.
-- ☁️ Azuer
-- ☑️ SCRUM Master
+- 📚 Quiero especializarme en Backend.
+- ☁️ Azure.
+- ☑️ Soy SCRUM Master.
 - 📫 Cómo encontrarme: [Linkedin](https://www.linkedin.com/in/jos%C3%A9-rafael-solis-franco-60a857174) [Outlook](mailto:jrsolis1997@)
 
 
